@@ -92,22 +92,6 @@ A Python-based Telegram autoresponder that uses a **user account** (via Telethon
 
 ---
 
-## Project Structure
-telegemi/
-├── .env # (Optional & Ignored) Environment variables
-├── .gitignore # Git ignore file
-├── LICENSE # Project License file
-├── main.py # The main application script
-├── README.md # This README file
-├── requirements.txt # Python dependencies
-├── system_prompt.txt # File containing the AI's system prompt
-
---- Ignored Files (Examples) ---
-├── logs.txt # Ignored log file
-├── my_telegram_session.session # Ignored session file
-└── venv/ # Ignored virtual environment directory
----
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
