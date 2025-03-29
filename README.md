@@ -31,7 +31,7 @@ A Python-based Telegram autoresponder that uses a **user account** (via Telethon
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/chernobrys/TeleGemi.git 
+    git clone https://github.com/chernobrys/Telegemi.git 
     cd Telegemi
     ```
 
