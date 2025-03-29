@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# Telethon session file
+*.session
+*.session-journal
+
+# Log files
+logs.txt
+*.log
+
+# Python virtual environment
+venv/
+.venv/
+*/venv/
+*/.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# BFG JAR file (if downloaded)
+bfg*.jar
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
